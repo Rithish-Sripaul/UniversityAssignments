@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="Branch">
+        <item>SCOPE</item>
+        <item>SENSE</item>
+        <item>Option C</item>
+        <item>Option D</item>
+    </string-array>
+</resources>
